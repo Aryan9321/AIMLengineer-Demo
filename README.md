@@ -1,2 +1,2 @@
 # AIMLengineer-Demo
-This is my first repository  <P> AI and Machine Learning projects,Python programs, Data Science experiments, and practical implementations.
+This is my first repository  AI and Machine Learning projects,Python programs, Data Science experiments, and practical implementations.
